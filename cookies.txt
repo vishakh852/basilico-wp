@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+demo.7iquid.com	TRUE	/basilico/main/	FALSE	1999999999	woocommerce_items_in_cart	1
+demo.7iquid.com	TRUE	/basilico/main/	FALSE	1999999999	wp_woocommerce_session_84fb0fe89b9b895c2235a331da89a196	t_7f88b96323732643f8d7fe2cfc7ae0%7C%7C1746611710%7C%7C1746608110%7C%7Cc5c41db00f6a076fc84beaa93911cf1a
+demo.7iquid.com	TRUE	/basilico/main/	FALSE	1999999999	woocommerce_cart_hash	47a62d2005f9e4261c483bd13254df37
+

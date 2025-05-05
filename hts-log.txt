@@ -1,0 +1,182 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 05 May 2025 15:22:37 at https://demo.7iquid.com/basilico/main/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demo.7iquid.com/basilico/main/ -O1 "C:\My Web Sites\basilico" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:24:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://demo.7iquid.com/basilico/main/xmlrpc.php?rsd (from https://demo.7iquid.com/basilico/main/)
+15:26:34	Error: 	"Not Found" (404) at link https://demo.7iquid.com/basilico/main/book-a-table (from https://demo.7iquid.com/basilico/main/)
+15:27:07	Error: 	"Not Found" (404) at link https://demo.7iquid.com/basilico/main/wp-content/themes/basilico/assets/images/dropdown-shadow.png (from https://demo.7iquid.com/basilico/main/wp-content/themes/basilico/assets/css/style.css?ver=1.0.0)
+15:27:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://demo.7iquid.com/basilico/main/xmlrpc.php?rsd (from https://demo.7iquid.com/basilico/main/)
+15:27:09	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=2521
+15:27:09	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=2521 to https://demo.7iquid.com/basilico/main/home-2/
+15:27:14	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=2721
+15:27:14	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=2721 to https://demo.7iquid.com/basilico/main/home-3/
+15:27:17	Warning: 	Found for https://demo.7iquid.com/basilico/main/checkout/
+15:27:17	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/checkout/ to https://demo.7iquid.com/basilico/main/cart/
+15:27:18	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=2833
+15:27:18	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=2833 to https://demo.7iquid.com/basilico/main/home-4/
+15:27:18	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=1744
+15:27:18	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=1744 to https://demo.7iquid.com/basilico/main/about-us/
+15:27:18	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=1930
+15:27:18	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=1930 to https://demo.7iquid.com/basilico/main/book-table/
+15:27:18	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=649
+15:27:18	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=649 to https://demo.7iquid.com/basilico/main/careers/
+15:27:18	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=416
+15:27:18	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=416 to https://demo.7iquid.com/basilico/main/faqs/
+15:27:18	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=548
+15:27:18	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=548 to https://demo.7iquid.com/basilico/main/gallery/
+15:27:18	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=1049
+15:27:18	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=1049 to https://demo.7iquid.com/basilico/main/history/
+15:27:19	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=1845
+15:27:19	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=1845 to https://demo.7iquid.com/basilico/main/meet-the-chef/
+15:27:19	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=468
+15:27:19	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=468 to https://demo.7iquid.com/basilico/main/pricing-table/
+15:27:19	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=821
+15:27:19	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=821 to https://demo.7iquid.com/basilico/main/private-services/
+15:27:20	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=935
+15:27:20	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=935 to https://demo.7iquid.com/basilico/main/special-wedding/
+15:27:53	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=3154
+15:27:53	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=3154 to https://demo.7iquid.com/basilico/main/product/southern-pecan-pie/
+15:28:36	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=1903
+15:28:36	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=1903 to https://demo.7iquid.com/basilico/main/special-offer/
+15:28:37	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=583
+15:28:37	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=583 to https://demo.7iquid.com/basilico/main/testimonials/
+15:28:37	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=757
+15:28:37	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=757 to https://demo.7iquid.com/basilico/main/comming-soon/
+15:28:37	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=1605
+15:28:37	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=1605 to https://demo.7iquid.com/basilico/main/menu-list/
+15:28:37	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=1393
+15:28:37	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=1393 to https://demo.7iquid.com/basilico/main/menu-style/
+15:28:37	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=2120
+15:28:37	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=2120 to https://demo.7iquid.com/basilico/main/menu-tab/
+15:28:37	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=1554
+15:28:37	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=1554 to https://demo.7iquid.com/basilico/main/menu-zigzag/
+15:28:37	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=1317
+15:28:37	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=1317 to https://demo.7iquid.com/basilico/main/portfolio-carousel/
+15:28:37	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=1227
+15:28:37	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=1227 to https://demo.7iquid.com/basilico/main/portfolio-three-columns/
+15:28:38	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=1114
+15:28:38	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=1114 to https://demo.7iquid.com/basilico/main/portfolio-full-width/
+15:28:41	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=1241
+15:28:41	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=1241 to https://demo.7iquid.com/basilico/main/portfolio-mansonry/
+15:28:41	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=1076
+15:28:41	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=1076 to https://demo.7iquid.com/basilico/main/portfolio/albacore-tuna-broccoli/
+15:28:42	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=307
+15:28:42	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=307 to https://demo.7iquid.com/basilico/main/blog-creative/
+15:28:52	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=249
+15:28:52	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=249 to https://demo.7iquid.com/basilico/main/blog-list/
+15:28:52	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=207
+15:28:52	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=207 to https://demo.7iquid.com/basilico/main/blog-full-width/
+15:28:53	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=1
+15:28:53	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=1 to https://demo.7iquid.com/basilico/main/the-impact-of-the-new-steps-of-service/
+15:28:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://demo.7iquid.com/basilico/main/xmlrpc.php (from https://demo.7iquid.com/basilico/main/the-impact-of-the-new-steps-of-service/)
+15:28:53	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=709
+15:28:53	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=709 to https://demo.7iquid.com/basilico/main/contact-1/
+15:28:53	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=670
+15:28:53	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=670 to https://demo.7iquid.com/basilico/main/contact-2/
+15:28:54	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=782
+15:28:54	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=782 to https://demo.7iquid.com/basilico/main/location/
+15:28:54	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=177
+15:28:54	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=177 to https://demo.7iquid.com/basilico/main/how-to-design-a-small-restaurant/
+15:28:56	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=178
+15:28:56	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=178 to https://demo.7iquid.com/basilico/main/how-real-restaurants-approach-benefits/
+15:28:56	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=160
+15:28:56	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=160 to https://demo.7iquid.com/basilico/main/food-is-the-foundation-of-true-happiness/
+15:28:56	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=161
+15:28:56	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=161 to https://demo.7iquid.com/basilico/main/loyalty-is-key-to-keeping-customers-happy-in-the-face-of-rising-prices/
+15:28:56	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=176
+15:28:56	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=176 to https://demo.7iquid.com/basilico/main/10-ways-to-improve-restaurant-employee/
+15:28:56	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=1141
+15:28:56	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=1141 to https://demo.7iquid.com/basilico/main/portfolio/tender-octopus-and-fennel/
+15:28:56	Error: 	"Not Found" (404) at link https://demo.7iquid.com/basilico/main/wp-content/uploads/2023/08/friends-enjoying-a-lunch-in-a-restaurant-cropped.jpg (from https://demo.7iquid.com/basilico/main/portfolio/tender-octopus-and-fennel/)
+15:28:58	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=1183
+15:28:58	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=1183 to https://demo.7iquid.com/basilico/main/portfolio/grilled-lamb-rack/
+15:28:58	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=1185
+15:28:58	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=1185 to https://demo.7iquid.com/basilico/main/portfolio/heirloom-tomato-salad/
+15:28:58	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=1184
+15:28:58	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=1184 to https://demo.7iquid.com/basilico/main/portfolio/brunos-scribble/
+15:28:58	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=1142
+15:28:58	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=1142 to https://demo.7iquid.com/basilico/main/portfolio/caprese-salad-kabobs/
+15:28:58	Warning: 	File not parsed, looks like binary: https://demo.7iquid.com/basilico/main/wp-content/plugins/revslider/public/assets/css/openhand.cur
+15:28:58	Warning: 	File not parsed, looks like binary: https://demo.7iquid.com/basilico/main/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+15:28:58	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://demo.7iquid.com/basilico/main/xmlrpc.php?rsd (from https://demo.7iquid.com/basilico/main/)
+15:28:58	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=120
+15:28:58	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=120 to https://demo.7iquid.com/basilico/main/white-castle-among-businesses/
+15:28:58	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=122
+15:28:58	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=122 to https://demo.7iquid.com/basilico/main/how-to-lock-in-beverage-consistency/
+15:28:58	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=9
+15:28:58	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=9 to https://demo.7iquid.com/basilico/main/cart/
+15:28:58	Warning: 	Found for https://demo.7iquid.com/basilico/main/cart/?remove_item=e8258e5140317ff36c7f8225a3bf9590&_wpnonce=e4e86eda6e
+15:28:58	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/cart/?remove_item=e8258e5140317ff36c7f8225a3bf9590&_wpnonce=e4e86eda6e to http://demo.7iquid.com/basilico/main/shop/?removed_item=1
+15:28:58	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=3173
+15:28:58	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=3173 to https://demo.7iquid.com/basilico/main/product/starter-egg-soup/
+15:29:10	Warning: 	Found for https://demo.7iquid.com/basilico/main/cart/?remove_item=29539ed932d32f1c56324cded92c07c2&_wpnonce=e4e86eda6e
+15:29:10	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/cart/?remove_item=29539ed932d32f1c56324cded92c07c2&_wpnonce=e4e86eda6e to http://demo.7iquid.com/basilico/main/shop/?removed_item=1
+15:29:10	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=3161
+15:29:10	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=3161 to https://demo.7iquid.com/basilico/main/product/mysterious-black-pasta/
+15:29:15	Warning: 	Found for https://demo.7iquid.com/basilico/main/cart/?remove_item=6a4d5952d4c018a1c1af9fa590a10dda&_wpnonce=e4e86eda6e
+15:29:15	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/cart/?remove_item=6a4d5952d4c018a1c1af9fa590a10dda&_wpnonce=e4e86eda6e to http://demo.7iquid.com/basilico/main/shop/?removed_item=1
+15:29:15	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=3163
+15:29:15	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=3163 to https://demo.7iquid.com/basilico/main/product/egg-sandwich/
+15:29:17	Warning: 	Found for https://demo.7iquid.com/basilico/main/cart/?remove_item=976abf49974d4686f87192efa0513ae0&_wpnonce=e4e86eda6e
+15:29:17	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/cart/?remove_item=976abf49974d4686f87192efa0513ae0&_wpnonce=e4e86eda6e to http://demo.7iquid.com/basilico/main/shop/?removed_item=1
+15:29:18	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=3171
+15:29:18	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=3171 to https://demo.7iquid.com/basilico/main/product/mixed-vegetable-salad/
+15:29:22	Warning: 	Found for https://demo.7iquid.com/basilico/main/cart/?remove_item=fdbd31f2027f20378b1a80125fc862db&_wpnonce=e4e86eda6e
+15:29:22	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/cart/?remove_item=fdbd31f2027f20378b1a80125fc862db&_wpnonce=e4e86eda6e to http://demo.7iquid.com/basilico/main/shop/?removed_item=1
+15:29:22	Warning: 	Found for https://demo.7iquid.com/basilico/main/cart/?remove_item=ce47be4abd80ac324c645fd57a27fc73&_wpnonce=e4e86eda6e
+15:29:22	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/cart/?remove_item=ce47be4abd80ac324c645fd57a27fc73&_wpnonce=e4e86eda6e to http://demo.7iquid.com/basilico/main/shop/?removed_item=1
+15:29:22	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=3175
+15:29:22	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=3175 to https://demo.7iquid.com/basilico/main/product/texas-apple-cobbler/
+15:29:33	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/shop/page/1/
+15:29:33	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/shop/page/1/ to https://demo.7iquid.com/basilico/main/shop/
+15:31:27	Warning: 	Found for https://demo.7iquid.com/basilico/main/cart/?remove_item=91378b331327b40e564390c43cd6b2be&_wpnonce=e4e86eda6e
+15:31:27	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/cart/?remove_item=91378b331327b40e564390c43cd6b2be&_wpnonce=e4e86eda6e to http://demo.7iquid.com/basilico/main/product/southern-pecan-pie/?removed_item=1
+15:31:29	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=3179
+15:31:29	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=3179 to https://demo.7iquid.com/basilico/main/product/grilled-oysters-with-onion-fat/
+15:31:41	Warning: 	Found for https://demo.7iquid.com/basilico/main/cart/?remove_item=f4aa0dd960521e045ae2f20621fb4ee9&_wpnonce=e4e86eda6e
+15:31:41	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/cart/?remove_item=f4aa0dd960521e045ae2f20621fb4ee9&_wpnonce=e4e86eda6e to http://demo.7iquid.com/basilico/main/product/southern-pecan-pie/?removed_item=1
+15:31:41	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=3181
+15:31:41	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=3181 to https://demo.7iquid.com/basilico/main/product/salad-dessert-sauce/
+15:31:48	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=1186
+15:31:48	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=1186 to https://demo.7iquid.com/basilico/main/portfolio/prickly-pear-tonic/
+15:31:48	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=1187
+15:31:48	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=1187 to https://demo.7iquid.com/basilico/main/portfolio/wild-mushroom-arancini/
+15:31:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://demo.7iquid.com/basilico/main/xmlrpc.php (from https://demo.7iquid.com/basilico/main/the-impact-of-the-new-steps-of-service/)
+15:31:49	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=121
+15:31:49	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=121 to https://demo.7iquid.com/basilico/main/how-great-greek-ceo-is-controlling/
+15:31:49	Warning: 	Found for https://demo.7iquid.com/basilico/main/cart/?undo_item=e8258e5140317ff36c7f8225a3bf9590&_wpnonce=e4e86eda6e
+15:31:49	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/cart/?undo_item=e8258e5140317ff36c7f8225a3bf9590&_wpnonce=e4e86eda6e to http://demo.7iquid.com/basilico/main/product/starter-egg-soup/?replytocom=7
+15:31:50	Warning: 	Found for https://demo.7iquid.com/basilico/main/cart/?remove_item=d3630410c51e60941a9001a46871070e&_wpnonce=e4e86eda6e
+15:31:50	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/cart/?remove_item=d3630410c51e60941a9001a46871070e&_wpnonce=e4e86eda6e to http://demo.7iquid.com/basilico/main/product/starter-egg-soup/?removed_item=1
+15:31:50	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/?p=3177
+15:31:50	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/?p=3177 to https://demo.7iquid.com/basilico/main/product/seafood-capellini-pasta/
+15:32:00	Warning: 	Found for https://demo.7iquid.com/basilico/main/cart/?undo_item=976abf49974d4686f87192efa0513ae0&_wpnonce=e4e86eda6e
+15:32:00	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/cart/?undo_item=976abf49974d4686f87192efa0513ae0&_wpnonce=e4e86eda6e to http://demo.7iquid.com/basilico/main/product/mixed-vegetable-salad/?replytocom=6
+15:32:00	Warning: 	Found for https://demo.7iquid.com/basilico/main/cart/?undo_item=fdbd31f2027f20378b1a80125fc862db&_wpnonce=e4e86eda6e
+15:32:00	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/cart/?undo_item=fdbd31f2027f20378b1a80125fc862db&_wpnonce=e4e86eda6e to http://demo.7iquid.com/basilico/main/product/texas-apple-cobbler/?replytocom=8
+15:32:00	Warning: 	Found for https://demo.7iquid.com/basilico/main/cart/?undo_item=ce47be4abd80ac324c645fd57a27fc73&_wpnonce=e4e86eda6e
+15:32:00	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/cart/?undo_item=ce47be4abd80ac324c645fd57a27fc73&_wpnonce=e4e86eda6e to http://demo.7iquid.com/basilico/main/product/texas-apple-cobbler/?replytocom=8
+15:32:02	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/product-category/food/page/1/
+15:32:02	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/product-category/food/page/1/ to https://demo.7iquid.com/basilico/main/product-category/food/
+15:32:03	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/product-tag/food/page/1/
+15:32:03	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/product-tag/food/page/1/ to https://demo.7iquid.com/basilico/main/product-tag/food/
+15:32:04	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/product-tag/restaurant/page/1/
+15:32:04	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/product-tag/restaurant/page/1/ to https://demo.7iquid.com/basilico/main/product-tag/restaurant/
+15:32:05	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/product-tag/salad/page/1/
+15:32:05	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/product-tag/salad/page/1/ to https://demo.7iquid.com/basilico/main/product-tag/salad/
+15:32:06	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/product-tag/shoping/page/1/
+15:32:06	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/product-tag/shoping/page/1/ to https://demo.7iquid.com/basilico/main/product-tag/shoping/
+15:32:06	Warning: 	Found for https://demo.7iquid.com/basilico/main/cart/?undo_item=91378b331327b40e564390c43cd6b2be&_wpnonce=e4e86eda6e
+15:32:06	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/cart/?undo_item=91378b331327b40e564390c43cd6b2be&_wpnonce=e4e86eda6e to http://demo.7iquid.com/basilico/main/product/grilled-oysters-with-onion-fat/?replytocom=11
+15:32:08	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://demo.7iquid.com/basilico/main/xmlrpc.php (from https://demo.7iquid.com/basilico/main/the-impact-of-the-new-steps-of-service/)
+15:32:09	Warning: 	Found for https://demo.7iquid.com/basilico/main/cart/?undo_item=d3630410c51e60941a9001a46871070e&_wpnonce=e4e86eda6e
+15:32:09	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/cart/?undo_item=d3630410c51e60941a9001a46871070e&_wpnonce=e4e86eda6e to http://demo.7iquid.com/basilico/main/product/seafood-capellini-pasta/?replytocom=9
+15:32:09	Warning: 	Moved Permanently for https://demo.7iquid.com/basilico/main/shop/page/1/?removed_item=1
+15:32:09	Warning: 	File has moved from https://demo.7iquid.com/basilico/main/shop/page/1/?removed_item=1 to https://demo.7iquid.com/basilico/main/shop/?removed_item=1
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 32 seconds : 1199 links scanned, 1108 files written (81217601 bytes overall) [38719524 bytes received at 67691 bytes/sec], 53976017 bytes transferred using HTTP compression in 673 files, ratio 19%, 41.7 requests per connection
+(5 errors, 166 warnings, 0 messages)
