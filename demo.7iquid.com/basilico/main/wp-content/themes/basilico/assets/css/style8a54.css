@@ -35238,11 +35238,12 @@ div#wapo-total-price-table {
     width: 100%; }
 /*# sourceMappingURL=style.css.map */
 .gray_banner::before {
-  content: '';
-  position: absolute;
-  top: 0; left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, 0.85);
-  z-index: -1; 
+  content: '' !important;
+  position: absolute !important;
+  top: 0 !important; 
+  left: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  background-color: rgba(0, 0, 0, 0.85) !important;
+  z-index: -1 !important;  
 }
