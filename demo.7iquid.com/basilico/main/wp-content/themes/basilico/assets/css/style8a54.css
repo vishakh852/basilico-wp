@@ -35237,7 +35237,7 @@ div#wapo-total-price-table {
     -moz-osx-font-smoothing: grayscale;
     width: 100%; }
 /*# sourceMappingURL=style.css.map */
-.gray_banner::before {
+.gray_banner::after {
   content: '' !important;
   position: absolute !important;
   top: 0 !important; 
